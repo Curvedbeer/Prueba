@@ -1,0 +1,23 @@
+#info{
+    background: white;
+    text-align: center;
+    padding: 20px;
+    font-family: cursive;
+}
+
+#info .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.fanart img{
+    width: 250px;
+    height: 250px;
+    border: 7px black;
+    border-radius: 50%;
+}
+
+.fanart {
+    margin: 20px;
+}
